@@ -1,0 +1,6 @@
+# "Buatlah program dengan output sebagai berikut"
+print("nama saya adalah tabah penemuan")
+print("nim saya adalah (24241147)")
+print("saya berasal dari bima ")
+print("nomor keberutungan saya (24+47)")
+print("71")
